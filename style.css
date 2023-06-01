@@ -1,0 +1,42 @@
+body {
+  font-family: arial;
+  margin: 40px;
+}
+
+h1,
+p {
+  margin: 0px;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: 1;
+}
+
+p,
+span {
+  font-size: 20px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.preco {
+  background: #ddd;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+.comprar {
+  text-decoration: none;
+  padding: 10px 20px;
+  background: black;
+  color: tomato;
+  border-radius: 4px;
+  font-size: 20px;
+}
+
+.grid {
+  display: grid;
+}
